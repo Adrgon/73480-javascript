@@ -1,0 +1,20 @@
+[{
+  "nombre": "pelota",
+  "precio": "10.99",
+  "cantidad": 5
+},
+{
+    "nombre": "botines", 
+    "precio": "30.99",
+    "cantidad": 3
+},
+{
+    "nombre": "medias", 
+    "precio": "8.99",
+    "cantidad": 5
+},
+{
+    "nombre": "camiseta", 
+    "precio": "19.99",
+    "cantidad": 1
+}]

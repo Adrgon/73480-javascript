@@ -1,0 +1,104 @@
+[
+  {
+    "nombre": "Goku",
+    "raza": "Saiyajin",
+    "caracteristicas": [
+      "Protagonista principal",
+      "Puro de corazón",
+      "Amante de la lucha y el entrenamiento",
+      "Capaz de transformarse en Super Saiyajin y otras formas",
+      "Ingenuo pero con un gran sentido de la justicia"
+    ]
+  },
+  {
+    "nombre": "Vegeta",
+    "raza": "Saiyajin",
+    "caracteristicas": [
+      "Príncipe Saiyajin",
+      "Orgulloso y arrogante",
+      "Rival de Goku",
+      "Inicialmente villano, luego antihéroe y aliado",
+      "Constantemente busca superar a Goku"
+    ]
+  },
+  {
+    "nombre": "Gohan",
+    "raza": "Híbrido Saiyajin/Humano",
+    "caracteristicas": [
+      "Hijo mayor de Goku",
+      "Gran potencial latente, especialmente en su forma mística",
+      "Prefiere estudiar y ser un erudito en lugar de luchar",
+      "Protector de su familia y amigos"
+    ]
+  },
+  {
+    "nombre": "Piccolo",
+    "raza": "Namekiano",
+    "caracteristicas": [
+      "Antiguo villano, luego aliado y mentor de Gohan",
+      "Serio y estratégico",
+      "Capaz de regenerarse y estirar sus extremidades",
+      "Gran sabiduría y experiencia en combate"
+    ]
+  },
+  {
+    "nombre": "Freezer",
+    "raza": "Changeling (Raza de Freezer)",
+    "caracteristicas": [
+      "Villano icónico",
+      "Cruel, sádico y megalómano",
+      "Capaz de múltiples transformaciones para aumentar su poder",
+      "Ha sido revivido varias veces y es un enemigo recurrente"
+    ]
+  },
+  {
+    "nombre": "Cell",
+    "raza": "Bio-Androide (con células de varios guerreros)",
+    "caracteristicas": [
+      "Villano principal de la saga de Cell",
+      "Creado a partir de las células de los guerreros más poderosos",
+      "Capaz de absorber a otros para alcanzar su forma perfecta",
+      "Inteligente y calculador"
+    ]
+  },
+  {
+    "nombre": "Majin Buu",
+    "raza": "Desconocida (ser mágico)",
+    "caracteristicas": [
+      "Villano principal de la saga de Buu",
+      "Múltiples formas con personalidades cambiantes",
+      "Capaz de absorber a otros para ganar poder y características",
+      "Puede convertir a la gente en dulces"
+    ]
+  },
+  {
+    "nombre": "Trunks",
+    "raza": "Híbrido Saiyajin/Humano",
+    "caracteristicas": [
+      "Hijo de Vegeta y Bulma",
+      "Existe una versión del futuro (más seria) y una del presente (más infantil)",
+      "Hábil con la espada (versión del futuro)",
+      "Junto con Goten, pueden realizar la fusión"
+    ]
+  },
+  {
+    "nombre": "Goten",
+    "raza": "Híbrido Saiyajin/Humano",
+    "caracteristicas": [
+      "Segundo hijo de Goku",
+      "Parecido a Goku en su niñez",
+      "Amigo de Trunks",
+      "Junto con Trunks, pueden realizar la fusión para convertirse en Gotenks"
+    ]
+  },
+  {
+    "nombre": "Bulma",
+    "raza": "Humana",
+    "caracteristicas": [
+      "Científica brillante e inventora",
+      "Amiga de Goku desde el inicio de la serie",
+      "Madre de Trunks y Bra",
+      "Proporciona tecnología y soporte a los Guerreros Z"
+    ]
+  }
+]
