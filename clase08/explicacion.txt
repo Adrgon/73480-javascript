@@ -1,0 +1,13 @@
+Sincronismo 
+
+console.log(1)
+console.log(2)
+console.log(3)
+
+Asincronica
+tareaAsincronica(1)
+tareaAsincronica(2)
+tareaAsincronica(3)
+tareaAsincronica(4)
+
+Sincronia se mezcla con Asincronia
