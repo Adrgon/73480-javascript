@@ -1,0 +1,22 @@
+{
+  "name": "generador-templates",
+  "version": "0.0.1",
+  "description": "Este es mi primero proyecto utilizando npm node y javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "template",
+    "npm"
+  ],
+  "author": "Adrian L Gonzalez",
+  "license": "MIT",
+  "dependencies": {
+    "random-quotes": "^1.3.0"
+  }
+}
